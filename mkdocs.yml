@@ -1,0 +1,8 @@
+site_name: My Docs
+docs_dir: md
+site_dir: docs
+nav: 
+- Inicio: 'index.md'
+- Pagina1: 'pag1.md'
+- Pagina2: 'pag2.md'
+- Pagina3: 'pag3.md'
